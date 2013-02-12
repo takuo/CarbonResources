@@ -151,4 +151,8 @@
     <string name="error_executing_su_command">スーパーユーザーコマンドの実行中にエラーが発生しました。Carbonは非ルートモードで実行します。\n\nエラー: %s</string>
     <string name="checking_superuser">スーパーユーザーを確認中...</string>
     <string name="external_sdcard_error">外部SDカードを読めません</string>
+    <string name="system">システム</string>
+    <string name="messaging_storage">メッセージストレージ</string>
+    <string name="whats_new">新機能</string>
+    <string name="version">バージョン</string>
 </resources>
